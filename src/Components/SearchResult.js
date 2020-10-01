@@ -19,5 +19,5 @@ const SearchRasult = ()=>{
 }
 
 
-export default SearchRasult
+export default SearchResult
 
